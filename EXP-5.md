@@ -67,7 +67,8 @@ The steps involved are:
 <img width="1079" height="438" alt="image" src="https://github.com/user-attachments/assets/66d24fe3-6df2-44dd-859b-a316c8f938b6" />
 
 # OUTPUT GRAPH :
-<img width="849" height="1480" alt="image" src="https://github.com/user-attachments/assets/21745c02-996c-4894-96b3-928fad020220" />
+![WhatsApp Image 2026-04-08 at 12 21 27 PM](https://github.com/user-attachments/assets/e96485a9-761f-415e-a53a-d9dd98ad6299)
+
 
 # RESULT:
 A digital Butterworth low pass filter satisfying the given constraints was successfully designed using the bilinear transformation method and its frequency response was verified using MATLAB.
