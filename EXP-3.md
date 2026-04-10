@@ -52,7 +52,8 @@ Key Features of DIT-FFT :
 <img width="969" height="1600" alt="image" src="https://github.com/user-attachments/assets/c623ff92-8726-4e38-858d-018af1d461d1" />
 
 # OUTPUT GRAPH :
-<img width="881" height="1438" alt="image" src="https://github.com/user-attachments/assets/83ccfff9-517f-4e75-99fd-8c9d5f3c34c6" />
+![WhatsApp Image 2026-04-08 at 12 20 31 PM](https://github.com/user-attachments/assets/f81a2d23-bd07-4caf-93b3-db2be42328e0)
+
 
 # RESULT:
 Thus, the Fast Fourier Transform of the given discrete-time signal was successfully computed using the Radix-2 Decimation-in-Time (DIT) FFT algorithm in MATLAB.
