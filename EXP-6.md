@@ -71,7 +71,8 @@ Plot magnitude and phase response.
 <img width="1080" height="352" alt="image" src="https://github.com/user-attachments/assets/8bde3226-e640-4cf6-b092-76d1433e05a7" />
 
 # OUTPUT GRAPH :
-<img width="969" height="1501" alt="image" src="https://github.com/user-attachments/assets/7771b166-3dfb-4243-8f1f-96d7c0b2fc80" />
+![WhatsApp Image 2026-04-08 at 12 21 53 PM](https://github.com/user-attachments/assets/a936e840-eee4-4e43-86fe-296859528ad8)
+
 
 # RESULT:
 A digital Chebyshev low pass filter satisfying the given specifications was successfully designed using the bilinear transformation method and its frequency response was verified using MATLAB.
