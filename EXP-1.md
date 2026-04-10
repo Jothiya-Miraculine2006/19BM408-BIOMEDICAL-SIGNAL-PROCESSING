@@ -49,8 +49,8 @@ x(n)=a^n sin⁡(ωn)
 
 
 # OUTPUT GRAPH:
-<img width="821" height="1452" alt="image" src="https://github.com/user-attachments/assets/3faaa3d7-fd19-4032-b9e4-cbb8fcc00523" />
-<img width="919" height="1600" alt="image" src="https://github.com/user-attachments/assets/3a42ca71-5ebb-4bf1-8198-735b6c0dc8af" />
+![WhatsApp Image 2026-04-08 at 12 19 53 PM](https://github.com/user-attachments/assets/325c51e0-bee7-40dd-a769-7601bf105ac4)
+
 
 
 
